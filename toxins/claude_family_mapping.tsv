@@ -1,0 +1,317 @@
+source_family	canonical_family	functional_class	confidence	assumption
+5'-nucleotidase family	5'-nucleotidase	enzyme	high	
+ab hydrolase superfamily	alpha/beta-hydrolase	enzyme	high	
+acrorhagin i family	acrorhagin	uncharacterized venom family	medium	
+actinoporin family	actinoporin	membrane-active / pore-forming	high	
+aegyptin family	aegyptin (collagen-binding)	hemostasis-active (non-enzymatic)	high	
+anophelin family	anophelin (thrombin inhibitor)	hemostasis-active (non-enzymatic)	high	
+ant myrmeciitoxin-01 family	ant linear cationic peptide (myrmeciitoxin)	membrane-active / pore-forming	high	
+ant venom allergen 2/4 family	ant venom allergen Sol i 2/4	auxiliary / non-toxin-like	medium	lipid-binding allergen, PBP/GOBP-related; grouped as allergen/binding protein not toxin
+apyrase family	apyrase (nucleotide phosphohydrolase)	enzyme	high	
+arthropod chh/mih/gih/vih hormone family	CHH/MIH neurohormone	hormone / neuropeptide-like	high	
+arthropod phospholipase d family	phospholipase D (SicTox)	enzyme	high	
+asilidin-1 family	asilidin	uncharacterized venom family	medium	Asilidae (robber fly) venom peptides
+asilidin-12 family	asilidin	uncharacterized venom family	medium	Asilidae (robber fly) venom peptides
+avit (prokineticin) family	AVIT/prokineticin (MIT1/Bv8)	hormone / neuropeptide-like	high	GPCR agonist; colipase fold
+beta-defensin family	beta-defensin	membrane-active / pore-forming	medium	structural family spanning AMPs and defensin-fold neurotoxins (e.g. platypus DLP)
+bombinin family	bombinin	membrane-active / pore-forming	high	
+bradykinin inhibitor peptide family	bradykinin-related peptide	hormone / neuropeptide-like	medium	grouped with BPP/BRP: all act on the kallikrein-kinin axis
+bradykinin-potentiating peptide family	bradykinin-related peptide	hormone / neuropeptide-like	high	
+bradykinin-related peptide family	bradykinin-related peptide	hormone / neuropeptide-like	high	
+calmodulin family	calmodulin	auxiliary / non-toxin-like	high	housekeeping protein recovered in venom datasets
+calycin family	lipocalin (calycin)	auxiliary / non-toxin-like	high	
+calycin superfamily	lipocalin (calycin)	auxiliary / non-toxin-like	high	
+cart family	CART peptide	hormone / neuropeptide-like	high	
+caterpillar 1 family	caterpillar venom peptide	uncharacterized venom family	medium	numbered Lepidoptera venom clusters merged
+caterpillar 11 family	caterpillar venom peptide	uncharacterized venom family	medium	numbered Lepidoptera venom clusters merged
+caterpillar 2 family	caterpillar venom peptide	uncharacterized venom family	medium	numbered Lepidoptera venom clusters merged
+caterpillar 3 family	caterpillar venom peptide	uncharacterized venom family	medium	numbered Lepidoptera venom clusters merged
+caterpillar 4 family	caterpillar venom peptide	uncharacterized venom family	medium	numbered Lepidoptera venom clusters merged
+caterpillar 8 family	caterpillar venom peptide	uncharacterized venom family	medium	numbered Lepidoptera venom clusters merged
+caterpillar 9 family	caterpillar venom peptide	uncharacterized venom family	medium	numbered Lepidoptera venom clusters merged
+cationic peptide 01 (latrotoxin) family	spider linear cationic peptide	membrane-active / pore-forming	high	UniProt splits these by peptide of origin; merged as one canonical family
+cationic peptide 02 (oxyopinin-2) family	spider linear cationic peptide	membrane-active / pore-forming	high	UniProt splits these by peptide of origin; merged as one canonical family
+cationic peptide 03 (latarcin) family	spider linear cationic peptide	membrane-active / pore-forming	high	UniProt splits these by peptide of origin; merged as one canonical family
+cationic peptide 04 (cupiennin) family	spider linear cationic peptide	membrane-active / pore-forming	high	UniProt splits these by peptide of origin; merged as one canonical family
+cationic peptide 06 (cytoinsectotoxin) family	spider linear cationic peptide	membrane-active / pore-forming	high	UniProt splits these by peptide of origin; merged as one canonical family
+cnidaria small cysteine-rich protein (scrip) family	SCRiP	uncharacterized venom family	medium	
+conogay family	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+conopeptide i2-like superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+conopeptide p-like superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+conophan family	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+conotoxin a superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin b superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin b2 family	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin c superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin d superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin e superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin f superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin g superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin g2 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin h superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin i1 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin i2 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin i3 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin j superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin k superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin l superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin m family	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin m superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin n superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin nsf-1 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin o1 family	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin o1 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin o2 family	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin o2 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin o3 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin p superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin q superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin r superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin s superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin t superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin u superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin v superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+conotoxin y superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	high	
+crec family	CREC (EF-hand, reticulocalbin-like)	auxiliary / non-toxin-like	medium	
+crisp family	CRISP (CAP superfamily)	ion channel / receptor-targeting toxin	medium	CAP/CRISP: several members block ion channels; others have unresolved targets
+crotamine-myotoxin family	crotamine/myotoxin (beta-defensin fold)	membrane-active / pore-forming	high	myotoxic + Nav-modulating; classed by membrane action
+cystatin family	cystatin	protease inhibitor	high	
+damage-control phosphatase family	phosphatase (damage-control)	enzyme	medium	housekeeping-type enzyme; venom role not established
+diapausin family	diapausin	membrane-active / pore-forming	medium	gamma-thionin-like AMP
+disintegrin family	disintegrin	hemostasis-active (non-enzymatic)	high	
+disintegrin-like family	disintegrin	hemostasis-active (non-enzymatic)	high	merged with disintegrin; differs by precursor origin
+diuretic hormone class 2 family	CRF/diuretic hormone	hormone / neuropeptide-like	high	
+dna/rna non-specific endonuclease family	non-specific nuclease (NucA/EndoG-like)	enzyme	high	
+dnase ii family	DNase II	enzyme	high	
+e superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+ectatomin family	ectatomin	membrane-active / pore-forming	high	
+egf domain peptide family	EGF-domain peptide	auxiliary / non-toxin-like	medium	
+elevenin family	elevenin	hormone / neuropeptide-like	high	
+ergtoxin family	scorpion ERG toxin (gamma-KTx)	ion channel / receptor-targeting toxin	high	
+f superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+farp (fmrfamide related peptide) family	FMRFamide-related peptide	hormone / neuropeptide-like	high	
+ficolin lectin family	ficolin/fibrinogen-domain lectin	lectin / carbohydrate-binding	high	
+flavin monoamine oxidase family	L-amino-acid oxidase (LAAO)	enzyme	high	venom members of this family are essentially all LAAOs
+formicidae venom clade 1 family	formicid venom peptide	uncharacterized venom family	medium	
+formicidae venom clade 2 family	formicid venom peptide	uncharacterized venom family	medium	
+formicidae venom clade 3 family	formicid venom peptide	uncharacterized venom family	medium	
+formicidae venom clade 4 family	formicid venom peptide	uncharacterized venom family	medium	
+formicidae venom precursor-01 superfamily	formicid venom peptide	uncharacterized venom family	medium	
+frog skin active peptide (fsap) family	amphibian skin AMP (FSAP)	membrane-active / pore-forming	high	
+gastrin/cholecystokinin family	gastrin/cholecystokinin	hormone / neuropeptide-like	high	
+glucagon family	glucagon	hormone / neuropeptide-like	high	
+glutaminyl-peptide cyclotransferase family	glutaminyl cyclase	enzyme	high	
+glycoprotein hormones subunit alpha family	glycoprotein hormone subunit alpha	hormone / neuropeptide-like	high	
+glycoprotein hormones subunit beta family	glycoprotein hormone subunit beta	hormone / neuropeptide-like	high	
+glycosyl hydrolase 13 family	alpha-amylase (GH13)	enzyme	high	
+glycosyl hydrolase 22 family	lysozyme C (GH22)	enzyme	high	
+glycosyl hydrolase 37 family	trehalase (GH37)	enzyme	high	
+glycosyl hydrolase 56 family	hyaluronidase (GH56)	enzyme	high	
+grammistin family	grammistin	membrane-active / pore-forming	high	
+hainantoxin family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	high	
+hau1a/hc18/hc19 family	Hau1a/Hc18/Hc19 peptide	uncharacterized venom family	low	assumed arachnid (Hadronyche-style naming); unverified
+helical arthropod-neuropeptide-derived (hand) family	HAND peptide	membrane-active / pore-forming	medium	neuropeptide-derived but acts as a linear membrane-active peptide
+hemolin family	hemolin (Ig-domain)	auxiliary / non-toxin-like	medium	
+histidine acid phosphatase family	acid phosphatase	enzyme	high	
+hydralysin family	hydralysin (aerolysin-like PFT)	membrane-active / pore-forming	high	
+i1 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+insect vpf1 family	insect VPF1	uncharacterized venom family	low	
+insulin family	insulin (con-insulin)	hormone / neuropeptide-like	high	
+invertebrate defensin family	invertebrate defensin (CSalpha-beta)	membrane-active / pore-forming	high	
+ixodegrin family	ixodegrin (RGD disintegrin-like)	hemostasis-active (non-enzymatic)	high	
+jellyfish toxin family	jellyfish PFT (CaTX/CqTX)	membrane-active / pore-forming	high	
+lasioglossin-like family	bee linear cationic AMP (lasioglossin)	membrane-active / pore-forming	high	
+licidin family	licidin	uncharacterized venom family	low	family content not confidently identified
+limacoditoxin-1 (acp-like) family	limacoditoxin	uncharacterized venom family	medium	Limacodidae venom clusters merged
+limacoditoxin-12 family	limacoditoxin	uncharacterized venom family	medium	Limacodidae venom clusters merged
+limacoditoxin-13 family	limacoditoxin	uncharacterized venom family	medium	Limacodidae venom clusters merged
+limacoditoxin-2 (cecropin-like) family	limacoditoxin (cecropin-like)	membrane-active / pore-forming	medium	cecropin-like member kept separate: membrane-active rather than uncharacterized
+limacoditoxin-22 family	limacoditoxin	uncharacterized venom family	medium	Limacodidae venom clusters merged
+limacoditoxin-3 family	limacoditoxin	uncharacterized venom family	medium	Limacodidae venom clusters merged
+limacoditoxin-59 family	limacoditoxin	uncharacterized venom family	medium	Limacodidae venom clusters merged
+limacoditoxin-6 family	limacoditoxin	uncharacterized venom family	medium	Limacodidae venom clusters merged
+limacoditoxin-7 family	limacoditoxin	uncharacterized venom family	medium	Limacodidae venom clusters merged
+lin/sarafotoxin family	endothelin/sarafotoxin	hormone / neuropeptide-like	high	GPCR-acting vasoconstrictor
+long (3 c-c) scorpion toxin superfamily	scorpion K+ channel toxin (KTx)	ion channel / receptor-targeting toxin	high	
+long (4 c-c) scorpion toxin superfamily	scorpion Na+ channel toxin (NaTx)	ion channel / receptor-targeting toxin	high	
+long chain scorpion toxin family	scorpion Na+ channel toxin (NaTx)	ion channel / receptor-targeting toxin	high	
+lysenin family	lysenin (aerolysin-like PFT)	membrane-active / pore-forming	high	
+major royal jelly protein family	MRJP/yellow protein	auxiliary / non-toxin-like	high	
+mcd family	apamin/MCD peptide	ion channel / receptor-targeting toxin	high	
+megalysin family	megalysin (aerolysin-like PFT)	membrane-active / pore-forming	low	assumed aerolysin-like PFT from Megalopyge caterpillar venom; verify before use
+melittin family	melittin	membrane-active / pore-forming	high	
+met-lysine family	Met-lysine peptide	uncharacterized venom family	low	family content not confidently identified
+mit-like actx family	MIT-like atracotoxin	ion channel / receptor-targeting toxin	medium	
+multicopper oxidase family	multicopper oxidase (laccase-like)	enzyme	high	
+myrmexin family	myrmexin	uncharacterized venom family	medium	
+natriuretic peptide family	natriuretic peptide	hormone / neuropeptide-like	high	
+natterin family	natterin (aerolysin-like PFT)	membrane-active / pore-forming	high	
+nemertide family	nemertide (ICK)	ion channel / receptor-targeting toxin	high	
+nep3 family	NEP3 (nematocyst expressed protein)	uncharacterized venom family	low	
+neurotoxin 01 (u2-agtx) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 02 (plectoxin) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 03 (tx2) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 04 (omega-agtx) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 05 (agouti) family	spider agouti-domain toxin	ion channel / receptor-targeting toxin	medium	agouti-like fold, not a classical ICK — kept separate from the ICK bucket
+neurotoxin 06 (delta-actx) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 07 (beta/delta-agtx) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 08 (shiva) family	spider linear/atypical neurotoxin (shiva)	membrane-active / pore-forming	low	shiva-family members are not ICK; membrane activity assumed
+neurotoxin 09 (tx3-6) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 10 (hwtx-1) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 11 (kappa toxin) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 12 (hwtx-2) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 13 (insecticidal toxin abc) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 14 (magi-1) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 15 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 16 (sfi) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 17 (21c2) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 19 (cstx) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 20 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 21 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 23 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 25 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 26 (dtx) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 27 (jztx-72) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 28 (litx) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 30 (phrixotoxin) family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 31 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 32 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 33 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 35 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 36 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 37 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin 39 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	medium	UniProt spider neurotoxin families are sequence clusters; most but not all members are ICK channel toxins
+neurotoxin omega-lctx family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	high	
+ngf-beta family	nerve growth factor beta	growth factor / cytokine-like	high	
+non-disulfide-bridged peptide (ndbp) superfamily	scorpion NDBP (linear cationic)	membrane-active / pore-forming	high	
+npy family	neuropeptide Y	hormone / neuropeptide-like	high	
+ntn-hydrolase family	Ntn-hydrolase	enzyme	medium	broad structural superfamily, not a venom family
+nucleotide pyrophosphatase/phosphodiesterase family	ENPP (nucleotide pyrophosphatase/PDE)	enzyme	high	
+o1 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+o2 superfamily	conopeptide/conotoxin	ion channel / receptor-targeting toxin	medium	bare-letter superfamilies assumed to be cone-snail gene superfamilies (Conidae naming)
+ohanin/vespryn family	ohanin/vespryn (PRY-SPRY)	uncharacterized venom family	medium	
+opioid neuropeptide precursor family	opioid neuropeptide	hormone / neuropeptide-like	high	
+pardaxin family	pardaxin	membrane-active / pore-forming	high	
+pbp/gobp family	odorant/pheromone-binding protein (PBP/GOBP)	auxiliary / non-toxin-like	high	
+pdgf/vegf growth factor family	VEGF/PDGF (svVEGF)	growth factor / cytokine-like	high	
+peptidase a1 family	aspartic peptidase A1	enzyme	high	
+peptidase m13 family	neprilysin-like peptidase (M13)	enzyme	high	
+peptidase s1 family	serine peptidase S1 (SVSP / kallikrein-like)	enzyme	high	
+peptidase s10 family	serine carboxypeptidase (S10)	enzyme	high	
+peptidase s8 family	subtilisin-like peptidase (S8)	enzyme	high	
+peptidase s9b family	dipeptidyl peptidase IV (S9B)	enzyme	high	
+peroxiredoxin family	peroxiredoxin	enzyme	high	antioxidant, accessory venom component
+pg turripeptide superfamily	turripeptide	ion channel / receptor-targeting toxin	medium	Turridae; targets largely unvalidated
+phospholipase a2 family	phospholipase A2	enzyme	high	
+phospholipase b-like family	phospholipase B-like	enzyme	high	
+phpg family	PHPG	uncharacterized venom family	low	family content not confidently identified
+phrixotoxin family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	high	
+ponericin-g family	ponericin	membrane-active / pore-forming	high	
+ponericin-l family	ponericin	membrane-active / pore-forming	high	
+ponericin-q family	ponericin	membrane-active / pore-forming	high	
+poneritoxin-ae1 family	poneritoxin	uncharacterized venom family	medium	
+protease inhibitor i14 (hirudin) family	hirudin (I14)	protease inhibitor	high	
+protease inhibitor i19 family	pacifastin-like inhibitor (I19)	protease inhibitor	medium	L2 name from MEROPS I19 assignment
+protease inhibitor i68 family	MEROPS I68 inhibitor	protease inhibitor	medium	kept at MEROPS-clan level; no widely used trivial name
+protease inhibitor i7 (squash-type serine protease inhibitor) family	squash-type inhibitor (I7)	protease inhibitor	high	
+psalmotoxin-1 family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	high	
+raci family	RACI	uncharacterized venom family	low	family content not confidently identified
+redulysin-like family	redulysin/trialysin (saposin-like)	membrane-active / pore-forming	high	
+rtx family	RTX repeats-in-toxin	membrane-active / pore-forming	medium	bacterial-type PFT architecture
+sa81-like family	Sa81-like peptide	uncharacterized venom family	low	scorpion peptide assumed from naming only
+salp14 family	Salp14 (FXa inhibitor)	hemostasis-active (non-enzymatic)	high	
+scolopendra neurotoxin 10 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra neurotoxin 3 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra neurotoxin 6 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra neurotoxin 8 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 1 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 2 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 3 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 4 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 5 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 6 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 7 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 8 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scolopendra toxin 9 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-01 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-03 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-04 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-05 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-06 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-07 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-08 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-09 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-10 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-11 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-12 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-13 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-14 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-15 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-16 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-17 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-18 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-19 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-20 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-21 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-22 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-23 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-24 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-25 family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scoloptoxin-xy family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+scorpion calcin family	calcin (RyR-activating ICK)	ion channel / receptor-targeting toxin	high	
+scorpion calcin-like family	calcin (RyR-activating ICK)	ion channel / receptor-targeting toxin	high	
+scorpion la1-like peptide family	La1-like peptide	uncharacterized venom family	medium	
+scutigerotoxin-01 family	scutigerotoxin (Scutigeromorpha)	uncharacterized venom family	medium	kept separate from Scolopendromorpha SLPTX families
+scutigerotoxin-02 family	scutigerotoxin (Scutigeromorpha)	uncharacterized venom family	medium	kept separate from Scolopendromorpha SLPTX families
+scutigerotoxin-03 family	scutigerotoxin (Scutigeromorpha)	uncharacterized venom family	medium	kept separate from Scolopendromorpha SLPTX families
+sea anemone 8 toxin family	sea anemone toxin (type 8)	ion channel / receptor-targeting toxin	low	target not confidently assigned; placed with channel toxins by family context
+sea anemone bbh family	sea anemone BBH	uncharacterized venom family	low	family content not confidently identified
+sea anemone short toxin (type iii) family	sea anemone Na+ channel toxin	ion channel / receptor-targeting toxin	medium	type III (ATX-III-like); Na+-channel-directed
+sea anemone sodium channel inhibitory toxin family	sea anemone Na+ channel toxin	ion channel / receptor-targeting toxin	high	
+sea anemone type 1 potassium channel toxin family	sea anemone K+ channel toxin	ion channel / receptor-targeting toxin	high	types 1/3/5/6 merged; they are structurally distinct but share the Kv target
+sea anemone type 3 (bds) potassium channel toxin family	sea anemone K+ channel toxin	ion channel / receptor-targeting toxin	high	types 1/3/5/6 merged; they are structurally distinct but share the Kv target
+sea anemone type 5 potassium channel toxin family	sea anemone K+ channel toxin	ion channel / receptor-targeting toxin	high	types 1/3/5/6 merged; they are structurally distinct but share the Kv target
+sea anemone type 6 potassium channel toxin family	sea anemone K+ channel toxin	ion channel / receptor-targeting toxin	high	types 1/3/5/6 merged; they are structurally distinct but share the Kv target
+sea anemonne phab family	sea anemone PHAB	uncharacterized venom family	low	source string is misspelled ('anemonne'); family content not confidently identified
+secapin family	secapin	protease inhibitor	medium	secapin is serine-protease-inhibitor-like; function only partly resolved
+serine protease inhibitor-like (til domain-containing) family	TIL-domain inhibitor	protease inhibitor	high	
+serpin family	serpin	protease inhibitor	high	
+short scorpion toxin superfamily	scorpion K+ channel toxin (KTx)	ion channel / receptor-targeting toxin	high	
+slptx(15) family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+snaclec family	C-type lectin-like (snaclec)	lectin / carbohydrate-binding	high	
+sntx/vtx toxin family	stonustoxin/verrucotoxin (MACPF-like)	membrane-active / pore-forming	high	
+spider toxin cstx family	spider ICK neurotoxin	ion channel / receptor-targeting toxin	high	
+spiderine family	spiderine	membrane-active / pore-forming	medium	chimeric: linear cytolytic module + ICK module
+sylv/frat/paul family	Sylv/Frat/Paul peptide	uncharacterized venom family	low	family content not confidently identified
+tachykinin family	tachykinin	hormone / neuropeptide-like	high	
+tctp family	TCTP (histamine-releasing factor)	auxiliary / non-toxin-like	high	
+tectonin family	tectonin (beta-propeller lectin)	lectin / carbohydrate-binding	high	
+teretoxin a (ta) superfamily	teretoxin	ion channel / receptor-targeting toxin	medium	Terebridae counterpart of conopeptide superfamilies; targets largely unvalidated
+teretoxin c (tc) superfamily	teretoxin	ion channel / receptor-targeting toxin	medium	Terebridae counterpart of conopeptide superfamilies; targets largely unvalidated
+teretoxin h (th) superfamily	teretoxin	ion channel / receptor-targeting toxin	medium	Terebridae counterpart of conopeptide superfamilies; targets largely unvalidated
+teretoxin j (tj) superfamily	teretoxin	ion channel / receptor-targeting toxin	medium	Terebridae counterpart of conopeptide superfamilies; targets largely unvalidated
+teretoxin m (tm) superfamily	teretoxin	ion channel / receptor-targeting toxin	medium	Terebridae counterpart of conopeptide superfamilies; targets largely unvalidated
+teretoxin n (tn) superfamily	teretoxin	ion channel / receptor-targeting toxin	medium	Terebridae counterpart of conopeptide superfamilies; targets largely unvalidated
+three-finger toxin family	three-finger toxin (3FTx)	ion channel / receptor-targeting toxin	high	
+transferrin family	transferrin	auxiliary / non-toxin-like	high	
+true venom lectin family	C-type lectin (true lectin)	lectin / carbohydrate-binding	high	
+turripeptide family	turripeptide	ion channel / receptor-targeting toxin	medium	Turridae; targets largely unvalidated
+type-b carboxylesterase/lipase family	carboxylesterase/cholinesterase (type-B)	enzyme	high	
+u-cntx family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+u18-cntx family	centipede venom peptide (scoloptoxin/SLPTX)	uncharacterized venom family	medium	SLPTX numbering is sequence-cluster based, not functional; merged into one canonical family
+vasopressin/oxytocin family	vasopressin/oxytocin (conopressin)	hormone / neuropeptide-like	high	
+venom complement c3 homolog family	cobra venom factor (complement C3 homolog)	enzyme	high	not catalytic itself but acts within the complement protease cascade
+venom cub family	CUB-domain venom protein	auxiliary / non-toxin-like	medium	
+venom kunitz-type family	Kunitz/BPTI-type	protease inhibitor	high	dual function: many venom Kunitz members are K+-channel blockers rather than inhibitors
+venom metalloproteinase (m12b) family	snake venom metalloproteinase / ADAM (M12B)	enzyme	high	
+venom protein 11 family	venom protein 11	uncharacterized venom family	low	
+venom ptu1-like knottin family	Ptu1-like knottin (ICK)	ion channel / receptor-targeting toxin	high	
+venom waprin family	WAP/waprin (four-disulfide core)	protease inhibitor	medium	WAP-domain proteins act as inhibitors and/or antimicrobials
+waglerin family	waglerin	ion channel / receptor-targeting toxin	high	
+worm b-toxin family	annelid B-toxin	uncharacterized venom family	low	
+worm cytolysin family	annelid cytolysin	membrane-active / pore-forming	medium	
+xibalbin-1 family	xibalbin	uncharacterized venom family	medium	remipede venom peptides; several are ICK but targets are unvalidated
+xibalbin-13 family	xibalbin	uncharacterized venom family	medium	remipede venom peptides; several are ICK but targets are unvalidated
+xibalbin-2 family	xibalbin	uncharacterized venom family	medium	remipede venom peptides; several are ICK but targets are unvalidated
+xylopin-like family	bee linear cationic AMP (xylopin)	membrane-active / pore-forming	high	
