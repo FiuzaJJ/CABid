@@ -4,6 +4,8 @@ Code for the CABid part of my master's thesis: length-normalised scores for
 Foldseek alignments, and a pooled SCOPe40 benchmark to compare them with
 Foldseek's own scores, TM-align, Foldseek-TM and DALI.
 
+Protein structural alignment can detect homology where sequence similarity no longer has the power to do so. Foldseek made structural search orders of magnitude faster, enabling large many-against-many searches, but its scores are inherited from sequence alignment and accumulate over the alignment length. As a result, they are not comparable between queries, and any single threshold discards short alignments before low-quality ones. We propose two length-aware scores computed from values that Foldseek already reports, preserving its speed. Bitdensity normalizes the alignment score by the alignment length and uses a coverage filter on one of the proteins. Coverage-Aware Bitdensity (CABid) incorporates coverage as a smooth function, being able to rank all alignments, even those with low coverages. In a pooled SCOPe40 benchmark, both metrics excelled at recall at high precision, where they outperformed DALI, TM-align and Foldseek's native scores at both the family and the superfamily level. Symmetric CABid achieved the highest AUPRC of any method tested at the family level, while at the superfamily level it performed comparably to TM-align and slightly below Foldseek-TM.
+
 Scores (bits = Foldseek structural bit score, spans in residues, coverages in %):
 
 ```
@@ -89,3 +91,7 @@ cache/          precomputed results used by make_figures.py
 structures/     domains and PyMOL script for Figure 11
 figures/        output
 ```
+
+## License
+
+MIT, see `LICENSE`.
