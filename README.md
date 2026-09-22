@@ -63,11 +63,7 @@ python -m scripts.cv_sweep          # exponent sweep for Figure S1, ~20 min per 
 python -m scripts.fit_kappa         # coverage coefficients at a = 0.65
 ```
 
-`fit_kappa.py` gives 0.022815 for the symmetric form. For the asymmetric form
-it gives 0.022385 on all hits, about 1% below the 0.022599 used in the thesis
-(an earlier fit). Both are inside the range of the per-fold values from the
-cross-validation (0.0216 to 0.0234), and the ranking barely changes over that
-range.
+
 
 ## Benchmark
 
