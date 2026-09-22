@@ -8,6 +8,12 @@ The toxins/ folder contains an HTML generated from an RMD file for the EVT estim
 
 Protein structural alignment can detect homology where sequence similarity no longer has the power to do so. Foldseek made structural search orders of magnitude faster, enabling large many-against-many searches, but its scores are inherited from sequence alignment and accumulate over the alignment length. As a result, they are not comparable between queries, and any single threshold discards short alignments before low-quality ones. We propose two length-aware scores computed from values that Foldseek already reports, preserving its speed. Bitdensity normalizes the alignment score by the alignment length and uses a coverage filter on one of the proteins. Coverage-Aware Bitdensity (CABid) incorporates coverage as a smooth function, being able to rank all alignments, even those with low coverages. In a pooled SCOPe40 benchmark, both metrics excelled at recall at high precision, where they outperformed DALI, TM-align and Foldseek's native scores at both the family and the superfamily level. Symmetric CABid achieved the highest AUPRC of any method tested at the family level, while at the superfamily level it performed comparably to TM-align and slightly below Foldseek-TM.
 
+![Recall at 99% precision and AUPRC on the pooled SCOPe40 benchmark](figures/fig07_benchmark_bars.png)
+
+*Recall at 99% precision (top) and AUPRC (bottom) at family and superfamily
+level on the pooled SCOPe40 benchmark. Error bars are 95% bootstrap intervals
+(B = 1000, resampling queries); E-value and DALI were not bootstrapped.*
+
 Scores (bits = Foldseek structural bit score, spans in residues, coverages in %):
 
 ```
